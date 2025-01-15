@@ -1,4 +1,4 @@
-# Spotify Clone - Music Streaming App
+# TuneStream - Music Streaming App
 
 This project is a clone of the Spotify web player, created using HTML and CSS. The design mimics the look and feel of the Spotify application, providing a similar user experience for exploring and playing music.
 
@@ -15,7 +15,7 @@ This project is a clone of the Spotify web player, created using HTML and CSS. T
 
 ## Overview
 
-The Spotify Clone project aims to replicate the user interface of the popular music streaming service, Spotify. It is a static web page that demonstrates the layout and design aspects of Spotify's web player.
+This project aims to replicate the user interface of the popular music streaming service, Spotify. It is a static web page that demonstrates the layout and design aspects of Spotify's web player.
 
 ## Features
 
@@ -30,7 +30,7 @@ The Spotify Clone project aims to replicate the user interface of the popular mu
 The project consists of the following files and directories:
 
 ```
-Spotify_Clone--Project/
+Tunestream --Project/
 │
 ├── assets/
 │   ├── logo.png
@@ -53,11 +53,11 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rohitkumarchaurasiya111/Spotify_Clone--Project.git
+   git clone https://github.com/sanuyadav00/Tunestream--Project.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Spotify_Clone--Project
+   cd Tunestream--Project
    ```
 
 ## Usage
